@@ -1,0 +1,1 @@
+Add your photo in this folder and update the notebook's `content` variable.
